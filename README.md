@@ -1,0 +1,1 @@
+# touhou-arrangement-chronicle-go
